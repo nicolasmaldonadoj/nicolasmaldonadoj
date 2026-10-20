@@ -1,6 +1,6 @@
 # Nicolás Maldonado Jacobsen
 
-Co-founder & CPTO at [Toperty](https://toperty.co), rent-to-own home financing in Colombia. Founder of Mavecure, an AI consultancy in Bogotá.
+Co-founder & CPTO at [Toperty](https://toperty.co), rent-to-own home financing in Colombia. Founder of Mavecure, a boutique AI consultancy in Bogotá.
 
 I design and ship AI systems that run real operations: credit decisions, WhatsApp and voice agents, document extraction and back-office workflows. Most of that work lives in private repos. The public pieces:
 
